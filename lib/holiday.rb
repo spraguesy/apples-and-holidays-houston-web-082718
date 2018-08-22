@@ -77,6 +77,7 @@ def all_holidays_with_bbq(holiday_hash)
         puts i
         puts arr
         if arr == "BBQ"
+          puts true
           puts i
         end
     end
